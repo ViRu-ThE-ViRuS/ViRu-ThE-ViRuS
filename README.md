@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViRu-ThE-ViRuS&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViRu-ThE-ViRuS&theme=dark" />
 </p>
