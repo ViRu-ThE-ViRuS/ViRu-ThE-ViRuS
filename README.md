@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViRu-ThE-ViRuS&theme=dark" />
 </p>
+
+i love solving problems :)
